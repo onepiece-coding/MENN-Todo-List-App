@@ -69,14 +69,6 @@ It features user authentication (JWT stored in HTTP-only cookies), protected rou
   npm run dev
 ```
 
-Available scripts in backend/package.json:
-
-- dev — run with auto-reload
-
-- build — compile TypeScript → dist/
-
-- start — run compiled server
-
 ### 2. Frontend Setup
    
 ```bash
